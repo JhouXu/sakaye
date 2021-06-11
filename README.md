@@ -19,7 +19,7 @@
 1. 将项目克隆到本地
 
 ```md
-$ git clone https://gitee.com/JhouXu/SaKaYe.git
+$ git clone https://github.com.cnpmjs.org/JhouXu/sakaye.git
 ```
 
 2. 运行
