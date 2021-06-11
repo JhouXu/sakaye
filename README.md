@@ -102,9 +102,9 @@ SaKaYe
 
 ## 关于
 
-- gitee 仓库地址：https://gitee.com/JhouXu/SaKaYe
+- github 仓库地址：https://github.com/JhouXu/sakaye
+- github 演示地址：https://jhouxu.github.io/sakaye/
+- gitee 仓库地址：https://gitee.com/JhouXu/sakaye
 - gitee 演示地址：https://jhouxu.gitee.io/sakaye（受 gitee-page 影响，此链接不能实现视频的观看，如需正常浏览请移步 github 演示地址）
-- github 仓库地址：https://github.com/JhouXu/SaKaYe
-- github 演示地址：https://jhouxu.github.io/SaKaYe/
 
 本仓库网站主要通过前端基础知识，进行页面效果的展示，图片、视频等素材均来源于网络，仅供学习使用。谢谢观看。
