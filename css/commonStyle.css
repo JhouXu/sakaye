@@ -1,0 +1,23 @@
+body,
+img,
+ul,
+li,
+img,
+a,
+p,
+h2,
+h3,
+video {
+    margin: 0;
+    padding: 0;
+    font-family: '微软雅黑';
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
