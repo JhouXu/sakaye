@@ -101,6 +101,7 @@ SaKaYe
 - JhouXu（作者）
 
 ## 关于
+## About
 
 - github 仓库地址：https://github.com/JhouXu/sakaye
 - github 演示地址：https://jhouxu.github.io/sakaye/
